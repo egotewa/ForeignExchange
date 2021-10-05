@@ -2,8 +2,8 @@
 Foreign exchange REST API using spring boot
 
 Technical requirements:
-1) Maven 3.6+ (optional)
-2) Java 11+
+- Maven 3.6+ (optional)
+- Java 11+
 
 1) Building the project
 If you have maven installed, you can build the app using 'mvn clean install'. 
